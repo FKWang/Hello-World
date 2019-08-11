@@ -10,3 +10,5 @@ print(b)
 print(a + b)
 
 a = a + b
+
+a += b
